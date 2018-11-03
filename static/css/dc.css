@@ -1,0 +1,63 @@
+
+/*dc - charts*/
+
+	#chart-hist-risk rect.bar:hover {
+	  fill-opacity: .5; }
+
+	#chart-hist-risk .axis text {
+	  font: 11px arial; }
+
+	#chart-hist-risk {
+		font: 14px arial;
+	}
+
+	#chart-row-tip g.row text{
+		font: 11px arial;
+		text-anchor:start;
+		text-align: center;
+		/*font-weight: bold;*/
+	}
+
+	#chart-row-DT g.row text{
+		font: 11px arial;
+		text-anchor:start;
+		text-align: center;
+		/*font-weight: bold;*/
+	}
+
+	#chart-ring-segm g.pie-label-group text{
+		font: 11px arial;
+		fill: black;
+	}
+
+	#chart-ring-hip g.pie-label-group text{
+		font: 11px arial;
+		fill: black;
+	}
+
+	.barLabel {
+		font:11px arial;
+	}
+
+	.y-axis-label y-label {
+		font:11px arial;
+	}
+
+/*Font styles*/
+
+	h1 {
+		font-size: 28px;
+		font-weight: bold;
+	}
+
+	h4 {
+		font: 18px arial;
+		font-weight: bold;
+	}
+
+
+/*Grid*/
+
+	.row-padding50 {
+	  margin-top:50px;
+	}
